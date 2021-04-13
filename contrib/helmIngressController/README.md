@@ -1,6 +1,5 @@
 # Helm Chart for Check Point CloudGuard AppSec
 ## Overview
-<<<<<<< HEAD
 NOTE: This chart will not work on EKS. For eks, use https://github.com/CheckPointSW/Infinity-Next/tree/main/marketplace/eks
 Check Point CloudGuard AppSec delivers access control, and advanced, multi-layered threat prevention including Web and API protection for mission-critical assets.
 
@@ -52,10 +51,6 @@ NOTE: If redeploying on an existing cluster, you may need to change the lbNodePo
 Define the application you want to protect in the “Infinity Next AppSec” application of the Check Point Infinity Next AppSec Portal according to the CloudGuard AppSec Deployment Guide section on AppSec Management. [CP CloudGuard AppSec Admin Guide](https://github.com/CheckPointSW/Infinity-Next/blob/main/contrib/resources/CP_CloudGuard_AppSec_AdminGuide.pdf)
 
 ## Installing the Chart 
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/main
 Download the latest release of the chart here:
 ```bash
 https://github.com/CheckPointSW/Infinity-Next/tree/main/deployments
